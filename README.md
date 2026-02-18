@@ -1,76 +1,54 @@
-# 👋 Hola, soy Jean — Desarrollador Full Stack
+<div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanCardozo&show_icons=true&theme=_)
+# 👋 Hola, soy Jean 
+**Desarrollador Full Stack | React • Next.js • TypeScript**
 
-Construyo software que siente bien al usarlo y que resuelve problemas reales, no solo líneas de código.
+*Construyo software que se siente bien al usarlo y resuelve problemas reales.*
 
-Me apasiona crear experiencias tecnológicas sólidas donde el frontend y el backend se encuentren sin fricción, con interfaces intuitivas y lógica robusta. Trabajo principalmente con React, Next.js y TypeScript, y me encanta integrar APIs REST, optimizar rendimiento y entregar código limpio que otros desarrolladores disfrutan leer y mantener.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app" alt="Top Langs" height="170" />
+</p>
 
-Mi enfoque no es solo “hacer que funcione”, sino hacer que funcione bien, rápido y de forma elegante.
+---
 
-💡 ¿Qué te encontrarás aquí?
+</div>
 
-Este perfil reúne mis proyectos más relevantes donde he aplicado:
+### 🚀 Sobre mi enfoque
+Me apasiona crear experiencias tecnológicas sólidas donde el frontend y el backend se encuentran sin fricción. Mi objetivo no es solo “hacer que funcione”, sino que sea **rápido, elegante y mantenible**.
 
-⚙️ Desarrollo Full Stack
+- ⚙️ **Desarrollo Integral:** Interfaces con Next.js + APIs REST robustas.
+- 🎯 **Calidad de Código:** Entrego soluciones documentadas y escalables (Clean Code).
+- 📈 **Aprendizaje Continuo:** Actualmente profundizando en microservicios y SSR avanzado.
 
-Interfaces con React + Next.js, cuidando usabilidad, accesibilidad y performance.
+### 🛠 Tecnologías y Herramientas
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
+</p>
 
-Lógica backend con Node.js y consumo de APIs REST reales.
+---
 
-Autenticación y manejo de sesiones con JWT cuando el caso lo necesita.
+### 💡 ¿Qué encontrarás en mis repositorios?
+*   **Performance:** Optimización de carga y renderizado.
+*   **Seguridad:** Manejo de sesiones y autenticación JWT.
+*   **Arquitectura:** Flujos de datos validados y bases de datos relacionales/NoSQL.
 
-Integración con bases de datos (PostgreSQL / MySQL / Firebase) y validación de flujos complejos.
+### 🤝 Conectemos
+¿Tienes un proyecto desafiante o buscas una colaboración con impacto real? **Conversemos.**
 
-🎯 Experiencia completa
+<p align="left">
+<a href="jean.cardozo.ramirez.23@gmail.com">
+  <img src="https://img.shields.io" />
+</a>
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io" />
+</a>
+</p>
 
-No solo desarrollo: también planifico, pruebo, documento y despliego.
-He estado en proyectos donde tuve que:
+<br />
 
-Anticipar errores y mitigar fallos antes de producción.
-
-Documentar procesos para otros desarrolladores.
-
-Colaborar en equipo para tomar decisiones basadas en impacto real y no solo en teoría.
-
-📈 ¿En qué estoy enfocado ahora?
-
-Actualmente estoy:
-
-Profundizando en Next.js + Server-side Rendering para apps que escalan.
-
-Mejorando prácticas de clean code e integración continua.
-
-Explorando conceptos de arquitectura escalable (event-driven y microservicios).
-
-🚀 Valores que aplico en mi trabajo
-
-Responsabilidad técnica: entregas que puedes usar hoy y mantener mañana.
-
-Pensamiento crítico: no doy nada por sentado; verifico, pruebo y mejoro.
-
-Comunicación efectiva: explico ideas complejas con claridad, tanto a técnicos como a no técnicos.
-
-Humildad para aprender: la tecnología cambia, y yo también.
-
-🛠 Tecnologías que uso habitualmente
-
-Frontend: React · Next.js · TypeScript · Tailwind CSS · HTML5 · CSS3
-Backend: Node.js · APIs REST · Integraciones
-Bases de datos: PostgreSQL · MySQL · Firebase (NoSQL)
-Herramientas: Git · GitHub · Docker · CI/CD básico
-
-🤝 Si llegaste hasta aquí…
-
-Gracias por visitar este espacio.
-Estoy abierto a:
-
-colaboraciones,
-
-trabajo remoto o híbrido,
-
-proyectos desafiantes,
-
-y oportunidades donde pueda aportar con impacto real desde el frontend hasta la lógica central de la app.
-
-Conversemos — estoy seguro de que encontrarás en mi trabajo no solo compromiso, sino resultados tangibles.
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app" alt="Quote" />
+</div>
