@@ -12,10 +12,10 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=JeanCRG23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Stats Card" />
+        <img src="https://github-readme-stats.vercel.app/api?username=JeanCRG23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Stats Card"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCRG23&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top Languages Card" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCRG23&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top Languages Card"/>
       </td>
     </tr>
   </table>
@@ -26,14 +26,14 @@
 ### 🚀 Sobre mi enfoque
 Me apasiona crear experiencias tecnológicas sólidas donde el frontend y el backend se encuentran sin fricción. Mi objetivo no es solo “hacer que funcione”, sino que sea rápido, elegante y mantenible.
 
-* **⚙️ Desarrollo Integral:** Interfaces modernas con **Next.js** + APIs **REST/GraphQL** robustas.
+* **⚙️ Desarrollo Integral:** Interfaces modernas con **Next.js** + APIs **REST** robusto.
 * **🎯 Calidad de Código:** Entrego soluciones documentadas y escalables siguiendo principios de **Clean Code**.
 * **📈 Aprendizaje Continuo:** Actualmente profundizando en **microservicios** y optimización de renderizado (**SSR/ISR**).
 
 ### 🛠 Tecnologías y Herramientas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript,nodejs,express,firebase,postgres,tailwind,git,docker&perline=10" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript,nodejs,express,firebase,postgres,tailwind,git,docker,vite&perline=10" alt="My Skills" />
   </a>
 </p>
 
