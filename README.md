@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33FF33&center=true&vCenter=true&width=435&lines=Hola,+soy+Jean+👋;Desarrollador+Full+Stack;React+•+Next.js+•+TypeScript" alt="Typing SVG" />
   <p>Construyo software que se siente bien al usarlo y resuelve problemas reales.</p>
-  <img src="https://komarev.com/ghpvc/?username=JeanCardozo&color=33FF33&style=flat-square&label=VISITAS+AL+PERFIL" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=JeanCRG23&color=33FF33&style=flat-square&label=VISITAS+AL+PERFIL" alt="Visitor Count" />
 </div>
 
 ### 📊 Mis Estadísticas de GitHub
@@ -10,10 +10,10 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=JeanCardozo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Stats Card" />
+        <img src="https://github-readme-stats.vercel.app/api?username=JeanCRG23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Stats Card" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCardozo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top Languages Card" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCRG23&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top Languages Card" />
       </td>
     </tr>
   </table>
@@ -31,7 +31,7 @@ Me apasiona crear experiencias tecnológicas sólidas donde el frontend y el bac
 ### 🛠 Tecnologías y Herramientas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,mongodb,postgres,tailwind,git,docker&perline=10" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,firebase,postgres,tailwind,git,docker&perline=10" alt="My Skills" />
   </a>
 </p>
 
