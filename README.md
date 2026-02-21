@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hola, soy Jean 👋</h1>
-  <p><strong>Desarrollador Full Stack | React • Next.js • TypeScript</strong></p>
+  <p><strong>Desarrollador Full Stack | React • Next.js • JavaScript</strong></p>
   <p>Construyo software que se siente bien al usarlo y resuelve problemas reales.</p>
   
   <img src="https://komarev.com/ghpvc/?username=JeanCRG23&color=33FF33&style=flat-square&label=VISITAS+AL+PERFIL" alt="Visitor Count" />
@@ -18,13 +18,13 @@ Me apasiona crear experiencias tecnológicas sólidas donde el frontend y el bac
 ### 🛠 Tecnologías y Herramientas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,firebase,postgres,tailwind,git,docker,mongodb,html,css&perline=10" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,nodejs,express,firebase,postgres,tailwind,git,docker,vite,html,css&perline=10" alt="My Skills" />
   </a>
 </p>
 
 ### 📈 Actividad en GitHub
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanCRG23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanCardozo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 🤝 Conectemos
