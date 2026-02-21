@@ -1,24 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33FF33&center=true&vCenter=true&width=435&lines=Hola,+soy+Jean+👋;Desarrollador+Full+Stack;React+•+Next.js+•+TypeScript" alt="Typing SVG" />
-
+  <h1>Hola, soy Jean 👋</h1>
+  <p><strong>Desarrollador Full Stack | React • Next.js • TypeScript</strong></p>
   <p>Construyo software que se siente bien al usarlo y resuelve problemas reales.</p>
-
+  
   <img src="https://komarev.com/ghpvc/?username=JeanCRG23&color=33FF33&style=flat-square&label=VISITAS+AL+PERFIL" alt="Visitor Count" />
-</div>
-
-### 📊 Mis Estadísticas de GitHub
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=JeanCRG23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Stats Card"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCRG23&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Top Languages Card"/>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
@@ -26,15 +11,20 @@
 ### 🚀 Sobre mi enfoque
 Me apasiona crear experiencias tecnológicas sólidas donde el frontend y el backend se encuentran sin fricción. Mi objetivo no es solo “hacer que funcione”, sino que sea rápido, elegante y mantenible.
 
-* **⚙️ Desarrollo Integral:** Interfaces modernas con **Next.js** + APIs **REST** robusto.
+* **⚙️ Desarrollo Integral:** Interfaces modernas con **Next.js** + APIs **REST/GraphQL** robustas.
 * **🎯 Calidad de Código:** Entrego soluciones documentadas y escalables siguiendo principios de **Clean Code**.
 * **📈 Aprendizaje Continuo:** Actualmente profundizando en **microservicios** y optimización de renderizado (**SSR/ISR**).
 
 ### 🛠 Tecnologías y Herramientas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,javascript,nodejs,express,firebase,postgres,tailwind,git,docker,vite&perline=10" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,firebase,postgres,tailwind,git,docker,mongodb,html,css&perline=10" alt="My Skills" />
   </a>
+</p>
+
+### 📈 Actividad en GitHub
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanCRG23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 🤝 Conectemos
@@ -49,8 +39,8 @@ Me apasiona crear experiencias tecnológicas sólidas donde el frontend y el bac
   </a>
 </p>
 
-<br />
+---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/quote?theme=tokyonight&layout=socrates" alt="Quote" />
+  <i>"La simplicidad es la sofisticación suprema."</i>
 </div>
