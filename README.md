@@ -24,7 +24,7 @@ Me apasiona crear experiencias tecnológicas sólidas donde el frontend y el bac
 
 ### 📈 Actividad en GitHub
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanCardozo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<a src="https://github-readme-streak-stats.herokuapp.com/?user=JeanCardozo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 🤝 Conectemos
