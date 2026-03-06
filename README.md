@@ -11,7 +11,7 @@
 ### 🚀 Sobre mi enfoque
 Me apasiona crear experiencias tecnológicas sólidas donde el frontend y el backend se encuentran sin fricción. Mi objetivo no es solo “hacer que funcione”, sino que sea rápido, elegante y mantenible.
 
-* **⚙️ Desarrollo Integral:** Interfaces modernas con **Next.js** + APIs **REST/GraphQL** robustas.
+* **⚙️ Desarrollo Integral:** Interfaces modernas con **Next.js** + APIs REST robusto.
 * **🎯 Calidad de Código:** Entrego soluciones documentadas y escalables siguiendo principios de **Clean Code**.
 * **📈 Aprendizaje Continuo:** Actualmente profundizando en **microservicios** y optimización de renderizado (**SSR/ISR**).
 
