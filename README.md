@@ -1,46 +1,70 @@
-<div align="center">
-  <h1>Hola, soy Jean 👋</h1>
-  <p><strong>Desarrollador Full Stack | React • Next.js • JavaScript</strong></p>
-  <p>Construyo software que se siente bien al usarlo y resuelve problemas reales.</p>
-  
-  <img src="https://komarev.com/ghpvc/?username=JeanCRG23&color=33FF33&style=flat-square&label=VISITAS+AL+PERFIL" alt="Visitor Count" />
-</div>
+<h1 align="center">Hola, soy Jean Cardozo</h1>
+<h3 align="center">Desarrollador Web Full Stack | Performance & Modern Stack</h3>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=JeanCardozo&label=Visitas&color=0e75b6&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=JeanCardozo&label=Visitas&color=0e75b6&style=flat" alt="Visitas al perfil" />
+  </a>
+</p>
 
 ---
 
-### 🚀 Sobre mi enfoque
-Me apasiona crear experiencias tecnológicas sólidas donde el frontend y el backend se encuentran sin fricción. Mi objetivo no es solo “hacer que funcione”, sino que sea rápido, elegante y mantenible.
+### Sobre mi
 
-* **⚙️ Desarrollo Integral:** Interfaces modernas con **Next.js** + APIs REST robusto.
-* **🎯 Calidad de Código:** Entrego soluciones documentadas y escalables siguiendo principios de **Clean Code**.
-* **📈 Aprendizaje Continuo:** Actualmente profundizando en **microservicios** y optimización de renderizado (**SSR/ISR**).
+Desarrollador Web Full Stack enfocado en rendimiento y experiencias web modernas. Trabajo con **Astro, React, TypeScript y Node.js** para construir aplicaciones rapidas, accesibles y bien estructuradas. Me apasiona la optimizacion web, las arquitecturas de componentes y las buenas practicas de desarrollo.
 
-### 🛠 Tecnologías y Herramientas
-<p align="left">
+- Actualmente profundizando en **Astro Islands, SSG e hidratacion parcial**
+- Enfocado en **rendimiento web, TypeScript strict y arquitecturas modernas**
+- Siempre aprendiendo y buscando nuevos retos
+
+---
+
+### Tecnologias y Herramientas
+
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,nodejs,express,firebase,postgres,tailwind,git,docker,vite,html,css&perline=10" alt="My Skills" />
-  </a>
-</p>
-
-### 📈 Actividad en GitHub
-<p align="left" href="https://git.io/streak-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JeanCardozo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-### 🤝 Conectemos
-¿Tienes un proyecto desafiante o buscas una colaboración con impacto real? **Conversemos.**
-
-<p align="left">
-  <a href="mailto:jean.cardozo.ramirez.23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/jean-cardozo-ramirez-9771b8309/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=astro,react,nextjs,typescript,javascript,nodejs,express,firebase,postgres,tailwind,git,docker,vite,html,css&perline=8" alt="Tech Stack" />
   </a>
 </p>
 
 ---
 
-<div align="center">
-  <i>"La simplicidad es la sofisticación suprema."</i>
-</div>
+### Proyectos Destacados
+
+#### [ComponenteVelada](https://github.com/JeanCardozo/ComponenteVelada) — Astro
+Componente web de alto rendimiento para **La Velada VI**, construido con el stack moderno: **Astro 6 + React 19 + Tailwind 4 + TypeScript**.
+- **Astro Islands** con hidratacion parcial para carga ultra rapida
+- **SSG** (Static Site Generation) para maximo rendimiento
+- **TypeScript strict** en todo el proyecto
+- **Lighthouse optimizado** — metricas de rendimiento, accesibilidad y SEO al maximo
+- Arquitectura de componentes limpia y mantenible
+
+#### [examen-app](https://github.com/JeanCardozo/examen-app) — JavaScript
+Aplicacion de examenes en linea con autenticacion y gestion de usuarios.
+- Desplegada en: [examenes-c84bf.web.app/login](https://examenes-c84bf.web.app/login)
+
+#### [Zona_De_Poder](https://github.com/JeanCardozo/Zona_De_Poder) — EJS
+Plataforma web full stack desplegada en produccion.
+- Desplegada en: [zona-de-poder.vercel.app](https://zona-de-poder.vercel.app)
+
+---
+
+### Estadisticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JeanCardozo&show_icons=true&theme=tokyonight&locale=es&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=JeanCardozo&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCardozo&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Top Langs" />
+</p>
+
+---
+
+<p align="center">
+  <i>Abierto a oportunidades laborales y colaboraciones en proyectos interesantes.</i>
+</p>
