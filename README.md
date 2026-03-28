@@ -2,9 +2,7 @@
 <h3 align="center">Desarrollador Web Full Stack | Performance & Modern Stack</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=JeanCardozo&label=Visitas&color=0e75b6&style=flat">
-    <img src="https://komarev.com/ghpvc/?username=JeanCardozo&label=Visitas&color=0e75b6&style=flat" alt="Visitas al perfil" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=JeanCardozo&label=Visitas&color=0e75b6&style=flat" alt="Visitas al perfil" />
 </p>
 
 ---
@@ -31,7 +29,7 @@ Desarrollador Web Full Stack enfocado en rendimiento y experiencias web modernas
 
 ### Proyectos Destacados
 
-#### [ComponenteVelada](https://github.com/JeanCardozo/ComponenteVelada) — Astro
+#### [ComponenteVelada](https://github.com/JeanCardozo/ComponenteVelada) — Astro &middot; [Ver demo en vivo](https://componente-velada.vercel.app/)
 Componente web de alto rendimiento para **La Velada VI**, construido con el stack moderno: **Astro 6 + React 19 + Tailwind 4 + TypeScript**.
 - **Astro Islands** con hidratacion parcial para carga ultra rapida
 - **SSG** (Static Site Generation) para maximo rendimiento
@@ -39,20 +37,19 @@ Componente web de alto rendimiento para **La Velada VI**, construido con el stac
 - **Lighthouse optimizado** — metricas de rendimiento, accesibilidad y SEO al maximo
 - Arquitectura de componentes limpia y mantenible
 
-#### [examen-app](https://github.com/JeanCardozo/examen-app) — JavaScript
+#### [examen-app](https://github.com/JeanCardozo/examen-app) — JavaScript &middot; [Ver demo](https://examenes-c84bf.web.app/login)
 Aplicacion de examenes en linea con autenticacion y gestion de usuarios.
-- Desplegada en: [examenes-c84bf.web.app/login](https://examenes-c84bf.web.app/login)
 
-#### [Zona_De_Poder](https://github.com/JeanCardozo/Zona_De_Poder) — EJS
+#### [Zona_De_Poder](https://github.com/JeanCardozo/Zona_De_Poder) — EJS &middot; [Ver demo](https://zona-de-poder.vercel.app)
 Plataforma web full stack desplegada en produccion.
-- Desplegada en: [zona-de-poder.vercel.app](https://zona-de-poder.vercel.app)
 
 ---
 
 ### Estadisticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeanCardozo&show_icons=true&theme=tokyonight&locale=es&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeanCardozo&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeanCardozo&theme=tokyonight" alt="Top Langs por Repo" />
 </p>
 
 <p align="center">
@@ -60,7 +57,7 @@ Plataforma web full stack desplegada en produccion.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanCardozo&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeanCardozo&theme=tokyonight" alt="Detalle del Perfil" />
 </p>
 
 ---
