@@ -82,10 +82,6 @@ Aplicación de exámenes en línea con autenticación, gestión de usuarios y ba
 ## Estadísticas
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JeanCardozo&theme=tokyonight&no-frame=true&row=2&column=4" alt="trophies" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JeanCardozo&theme=tokyonight" alt="stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JeanCardozo&theme=tokyonight" alt="languages" />
 </p>
@@ -96,6 +92,10 @@ Aplicación de exámenes en línea con autenticación, gestión de usuarios y ba
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JeanCardozo&theme=tokyonight" alt="details" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=JeanCardozo&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
 </p>
 
 ---
