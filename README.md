@@ -1,6 +1,6 @@
 # Jean Cardozo — JeanCRG
 
-Fundador de **JeanCRG, IA para negocios** (Ibagué, Colombia).
+Fundador de **NativaSoft, JeanCRG, IA para negocios** (Ibagué, Colombia).
 
 Construyo asistentes IA de WhatsApp y automatizaciones para pymes: sistemas que responden 24/7, recuperan ventas que se pierden cuando nadie responde y eliminan el trabajo repetitivo. Todo sobre la API oficial de Meta (WhatsApp Cloud API), n8n y Supabase, con seguridad desde el diseño.
 
